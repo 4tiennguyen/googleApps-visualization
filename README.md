@@ -21,7 +21,6 @@ Data Preprocessing:
 * Removing invalid entries.
 * Converting variables into a usable data type. For example, Size variables had “$” characters in front of each entry. 
 # Visualization
-![3ed314d846ea401e92a7c67124739ff8-0003](https://user-images.githubusercontent.com/34051678/171974802-b611df16-2b3d-43b5-89bc-2c17dfd01514.jpg)
 
 ![Google Play Store App Analysis Slides-page-005](https://user-images.githubusercontent.com/34051678/171975965-549e19be-1271-4a55-be93-a6b287968a53.jpg)
 
