@@ -1,4 +1,7 @@
 # Google Play Store Apps Analysis
+# Introduction
+The Google Play Store is one of the most popular Android app stores. The data set used in this report consists of some of the apps that are found in this store. The data set is officially called Google Play Store Apps and can be found on Kaggle. It was originally webscraped by a user Lavanya Gupta; a Computer Science graduate at Carnegie Mellon University. Researchers in the past have used Google Play Store Apps dataset to do exploratory data analysis, machine learning tasks and more. However, before building any models, there are three crucial initial steps that should be performed. Those are cleaning data, visualizing data and doing dimension reduction on the data. In this project, we complete the three steps mentioned in order to have a better understanding of the data.  
+
 ![3ed314d846ea401e92a7c67124739ff8-0003](https://user-images.githubusercontent.com/34051678/171974802-b611df16-2b3d-43b5-89bc-2c17dfd01514.jpg)
 
 ![Google Play Store App Analysis Slides-page-005](https://user-images.githubusercontent.com/34051678/171975965-549e19be-1271-4a55-be93-a6b287968a53.jpg)
