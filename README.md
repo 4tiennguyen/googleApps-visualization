@@ -38,6 +38,7 @@ Data Preprocessing:
 
 ![Google Play Store App Analysis Slides-page-012](https://user-images.githubusercontent.com/34051678/171976038-11d09d74-6e22-43ad-8b19-991072473f42.jpg)
 
+# Dimension Reduction Methods
 ![Google Play Store App Analysis Slides-page-014](https://user-images.githubusercontent.com/34051678/171976047-c88322b9-2e90-4eba-87bc-e51c3ab3e6e4.jpg)
 
 ![Google Play Store App Analysis Slides-page-015](https://user-images.githubusercontent.com/34051678/171976054-14ce1fd6-8e47-4316-8283-9bccc472108c.jpg)
